@@ -1,4 +1,11 @@
-# Top Javascript Frameworks
+---
+title: Top Javascript Frameworks
+slug: top-javascript-frameworks
+featured_image: top-javascript-frameworks.jpg
+date: "2020-07-03 12:33:23"
+---
+
+
 
 ## This is a blogpost about frameworks.
 

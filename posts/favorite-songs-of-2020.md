@@ -1,4 +1,11 @@
-# Favorite Songs of 2020
+---
+title: Favorite Songs of 2020
+slug: favorite-songs-of-2020
+featured_image: favorite-songs-of-2020.png
+date: "2020-03-07 12:33:23"
+---
+
+
 
 ## This is a blogpost about favorite songs of 2020.
 

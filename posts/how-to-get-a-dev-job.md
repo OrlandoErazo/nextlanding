@@ -1,4 +1,11 @@
-# How to Get a Dev Job
+---
+title: How to Get a Dev Job
+slug: how-to-get-a-dev-job
+featured_image: how-to-get-a-dev-job.jpg
+date: "2020-03-03 12:33:23"
+---
+
+
 
 ## This is a blogpost about dev jobs.
 
