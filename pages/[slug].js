@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Image from 'next/image'
+// import Image from 'next/image'
 // import styles from '../styles/Home.module.css'
 import Layout from '../components/Layout';
 import fs from 'fs';
@@ -34,7 +34,7 @@ export default function PostPage({postData, content}) {
 
 
 export const getStaticPaths = async () => {
-  const files = fs.readdirSync("posts")
+  const files = fs.readdirSync("posts");
   console.log("Files:", files);
   const paths = files.map(filename => ({
     params: {
